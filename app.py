@@ -43,4 +43,4 @@ def submit():
 
 
 #TERMINAL: flask run
-
+#mention the file name if not main.py: flask --app app run
